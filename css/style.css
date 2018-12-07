@@ -55,3 +55,11 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+.fa-linkedin-square {
+  content: "\f08c";
+  /* box-sizing: inherit; */
+}
+.fa-github-square {
+  content: "\f092";
+}
