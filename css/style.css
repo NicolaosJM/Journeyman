@@ -63,3 +63,7 @@ footer.page-footer {
 .fa-github-square {
   content: "\f092";
 }
+
+.skillList {
+  font-size: 14px;
+}
